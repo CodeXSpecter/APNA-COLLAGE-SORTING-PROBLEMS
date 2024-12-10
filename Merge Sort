@@ -1,7 +1,7 @@
 #This is the sorting algorithm which is merge sort 
 time complexity=nlogn
 
-public class Backtracking1 {
+public class Mergesort {
     public static void divide(int arr[],int si,int ei){
         if(si>=ei){
             return ;
